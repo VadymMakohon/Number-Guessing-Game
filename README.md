@@ -18,3 +18,6 @@ This is a simple number guessing game implemented in JavaScript. The game genera
 
 
 #![Screenshot 2024-05-11 at 10 39 19 PM](https://github.com/VadymMakohon/Number-Guessing-Game/assets/138728243/c430686c-ee97-463b-8f2c-831a140c3105)
+
+# Contributors
+- [Vadym Makohon](https://github.com/VadymMakohon)
